@@ -1,4 +1,4 @@
-#Insert tags inside ' ' below
+#Insert tags inside the '' below
 tags = ''
 
 list = tags.split(",")
